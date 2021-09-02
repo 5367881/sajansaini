@@ -1,0 +1,26 @@
+
+.photo{
+    border-style: solid;
+    border-color: aliceblue;
+    border-width: 3px;
+	display:inline;
+    border-radius:105px;
+	position:relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.hello{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+  .space{
+    padding-top: 25px;
+    color: rgb(105, 184, 254);
+  }
+  .user{
+    font-family:cursive;
+    font-size: 60px;
+  }
+  .pad{
+    padding: 5px;
+  }
